@@ -1,1 +1,3 @@
 What do you wish you knew at the beginning of the year? 
+
+I wish I had known at the beginning of the year how much I had to focus on the language. In regular Comp Sci., it's easier to know the language, whereas with CAS and using XCode, there are a lot more commands and words you need to know to understand what you're coding. 	

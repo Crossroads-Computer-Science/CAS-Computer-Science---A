@@ -1,1 +1,1 @@
-What do you wish you knew at the beginning of the year? 
+What do you wish you knew at the beginning of the year? Something in CAS Computer Science that I knew before I took it would be practicing critical thinking riddles and puzzles. The reason why I think riddles and puzzles could have helped me in Computer Science this year because they would have taught me to find the why in code and how the each line affects the following lines below. This would save me a lot of time in the debugging process and I would have become a more efficient coder. 
